@@ -26,7 +26,7 @@ browser.get("https://feed.watcherlab.com/index/apt")
 time.sleep(3)
 
 # 点开“按APT”选项卡
-apt_buttun = browser.find_element_by_xpath("//div[@class=' ant-tabs-tab']")
+apt_buttun = browser.find_element_by_xpath("//div[@class='ant-tabs-tab']")
 apt_buttun.click()
 
 dic_list = []
