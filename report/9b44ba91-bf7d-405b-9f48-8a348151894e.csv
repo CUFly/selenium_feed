@@ -1,0 +1,4 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"58.247.242.254","17621","","C&C | 木马后门","apt | reputation"
+"attnpower.com","","","僵尸木马主控端 | C&C | 木马后门","apt | reputation | c2"
+"uszzcs.com","","","僵尸木马主控端 | C&C | 木马后门","apt | reputation | c2"

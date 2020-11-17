@@ -1,0 +1,8 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"107.20.255.57","14618","","木马后门","apt | reputation"
+"194.44.130.179","3255 | 3255","","木马后门","apt | reputation"
+"223.25.233.248","45470 | 45470 | 45470","木马后门","c2 | 僵尸木马主控端 | C&C | 木马后门 | 钓鱼攻击 | 木马","apt | c2 | reputation"
+"23.99.20.198","8075","","木马后门","apt | reputation"
+"link.angellroofing.com","","","僵尸木马主控端 | 木马后门","apt | reputation | c2"
+"psa.perrydale.com","","","c2 | 僵尸木马主控端 | 木马后门","apt | reputation | c2"
+"079a440bee0f86d8a59ebc5c4b523a07","","","木马后门","apt | reputation"

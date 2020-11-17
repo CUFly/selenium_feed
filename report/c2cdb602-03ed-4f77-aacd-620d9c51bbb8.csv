@@ -1,0 +1,7 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"http://tresor-rare.com.hk/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/LogsLoader.php","","","c2","apt | reputation | c2"
+"http://www.huluwa.uk/wp-content/plugins/woocommerce/includes/class-wc-log.php","","","c2","apt | reputation | c2"
+"1c76a66a670a6f69b4fea25ca0ba4885eca9e1b85a2afbab61da3b4a6d52ae19","","","木马后门","apt | reputation"
+"5698c92fb8fe7ded0ff940c75979f44734650e4f2c852bdb4cbc9d46e7993185","","","木马后门","apt | reputation"
+"7481e87023604e7534d02339540ddd9565273dd51c13d7677b9b4c9623f0440b","","","木马后门","apt | reputation"
+"c978da455018a73ddbc9e1d2bf8c208ad3ec2e622850f68ef6b0aae939e5d2ab","","","木马后门","apt | reputation"

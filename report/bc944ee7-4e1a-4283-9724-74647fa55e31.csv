@@ -1,0 +1,5 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"filepiece.com","","","木马后门 | 钓鱼攻击 | 钓鱼","apt | reputation"
+"Techwach.com","","","malware | suspicious | 僵尸木马主控端 | 木马后门 | 钓鱼攻击 | 钓鱼","apt | reputation | c2"
+"2C3B9984BE2D8609F83D10171A4F1059","","","malware | ransomware | 木马后门 | 钓鱼攻击 | 恶意软件","apt | reputation"
+"F9AD3D4C90528E654DE20159859CA15B","","","木马后门 | 钓鱼攻击 | 恶意软件","apt | reputation"

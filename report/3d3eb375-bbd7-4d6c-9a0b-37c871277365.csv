@@ -1,0 +1,5 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"185.15.247.154","24961","木马后门","僵尸木马主控端 | 木马","apt | c2 | reputation"
+"c.cdn-edge-akamai.com","","","","apt"
+"offlineearthquake.com","","","僵尸木马主控端","apt | reputation | c2"
+"http://www.cam-research-ac.com","","","","apt"

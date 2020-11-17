@@ -1,0 +1,5 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"46.166.163.242","16125","","c2 | 木马后门 | 水坑攻击 | 鱼叉邮件 | Patchwork","apt | c2 | reputation"
+"5.8.88.64","62088","","c2 | malware | 木马后门 | Patchwork","apt | c2 | reputation"
+"91.235.129.203","21100","","c2 | 木马后门 | Patchwork","c2 | reputation"
+"http://185.81.113.82/test.exe","","","c2","apt | reputation"

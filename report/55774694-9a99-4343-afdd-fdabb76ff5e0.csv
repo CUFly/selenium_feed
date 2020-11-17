@@ -1,0 +1,8 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"godoycrus.com","","","僵尸木马主控端","apt | reputation | c2"
+"1b2c5354eb567132a341c1b15ad5cc71c3f5ba8e2788b67c0fbc0e7993beb1d2","","","","apt"
+"26995a1cd99a5c70fd7bfa925cb0bbbdbd419bedc2d664dffd3b7c57ad07de66","","","","apt"
+"59cbc7e788425120c2dde50f037afbf3b1d2108c0b7e27540e924cad2463fe5b","","","","apt"
+"678d59bcd469e4cf236c7af7517c54ab9ad643523383875bd875131d7130941f","","","","apt"
+"926e29f9242feb3e11c532616f7c90c5d7acab115d38ebf748cabaaa6a2a3667","","","APT34 Karkoff宏加载程序","apt"
+"ebae23be2e24139245cc32ceda4b05c77ba393442482109cc69a6cecc6ad1393","","","malware","apt | reputation"

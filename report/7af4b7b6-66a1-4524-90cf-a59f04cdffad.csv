@@ -1,0 +1,8 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"185.106.120.206","60117","","c2 | Cobalt Strike","apt | c2 | reputation"
+"193.180.255.2","9002","","scanner","apt | reputation"
+"68.65.123.230","22612 | 22612","","malware | phishing | proxy","apt | proxy | reputation"
+"82.118.242.243","206776","","","apt"
+"scsnewstoday.com","","","malware | 僵尸木马主控端 | 木马后门 | 钓鱼攻击","apt | reputation | c2"
+"thyssenkrupp-marinesystems.org","","","malware | suspicious | 僵尸木马主控端","apt | reputation | c2"
+"146aa9a0ec013aa5bdba9ea9d29f59d48d43bc17c6a20b74bb8c521dbb5bc6f4","","","Cobalt Strike","apt | reputation"

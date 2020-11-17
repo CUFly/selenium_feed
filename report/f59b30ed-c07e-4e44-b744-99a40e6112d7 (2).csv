@@ -1,0 +1,8 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"185.130.212.252","49335","","漏洞利用","reputation"
+"94.242.249.206","5577","","漏洞利用","reputation"
+"tautiaos.com","","HangOver","僵尸木马主控端 | 漏洞利用 | c2","apt | reputation | c2"
+"http://ebeijingcn.live/templates/software.php","","HangOver","c2","apt | reputation"
+"http://ebeijingcn.live/update/software.php","","HangOver","c2","apt | reputation"
+"http://saicgovcn.xyz/systemdb.php","","HangOver","c2","apt | reputation"
+"http://sz81orgcn.com/autoupdate.php","","HangOver","c2","apt | reputation"

@@ -1,0 +1,4 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"lcepos.com","","","僵尸木马主控端 | C&C","apt | reputation | c2"
+"http://lcepos.com/php/reclaimlandesk[.]php?devicename=$name&result=$result","","","C&C","apt"
+"8406ca490c60ec41569b35f31f1860ff4663bba44d1daac64760ecdfe694203d","","","恶意软件","apt"

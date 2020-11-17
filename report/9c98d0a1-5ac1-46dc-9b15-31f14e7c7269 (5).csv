@@ -1,0 +1,8 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"66.85.185.126","20454","","","apt"
+"dns.domain-resolve.org","","","僵尸木马主控端","apt | reputation | c2"
+"search.webstie.net","","","僵尸木马主控端","apt | reputation | c2"
+"7fd526e1a190c10c060bac21de17d2c90eb2985633c9ab74020a2b78acd8a4c8","","","","apt | reputation"
+"b20327c03703ebad191c0ba025a3f26494ff12c5908749e33e71589ae1e1f6b3","","","","apt | reputation"
+"b214c7a127cb669a523791806353da5c5c04832f123a0a6df118642eee1632a3","","","","apt | reputation"
+"b4e3b2a1f1e343d14af8d812d4a29440940b99aaf145b5699dfe277b5bfb8405","","","","apt | reputation"
