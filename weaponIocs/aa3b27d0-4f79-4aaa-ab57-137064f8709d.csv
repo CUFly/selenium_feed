@@ -1,0 +1,5 @@
+﻿"情报数据","ASN","恶意软件家族","攻击行为","威胁情报"
+"185.172.110.224","206898","DDoS.Linux.Spike.A | linux.Gafgyt-1 | linux.Gafgyt-3 |  | Gafgyt","scanner | Malicious Host | malicious | 僵尸木马主控端 | 僵尸网络 |  | 僵尸网络","apt | c2 | reputation"
+"185.172.110.224/mips|185.172.110.224/arm7","","Gafgyt","僵尸网络","apt"
+"f1c099d65bf94e009f5e65238caac468","","Gafgyt","malware | 僵尸网络","apt | reputation"
+"fb93601f8d4e0228276edff1c6fe635d","","Gafgyt","malware | 僵尸网络","apt | reputation"
