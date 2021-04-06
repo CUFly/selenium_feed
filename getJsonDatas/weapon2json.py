@@ -12,29 +12,16 @@ rPath = os.getcwd()
 dataPath = rPath + "\\dataSets"
 fileList = os.listdir(dataPath)
 
-byApt = dataPath + "\\ByAPT.csv"
-f = open(byApt, 'r', encoding='utf-8-sig')
+byWeapon = dataPath + "\\ByWeapon.csv"
+f = open(byWeapon, 'r', encoding='utf-8-sig')
 data = pd.read_csv(f)
 f.close()
 data = data.fillna("")
 # apt字典
-aptDict = {}
+weaponDict = {}
 r, c = data.shape     # (行数，列数)
 for i in range(r):    # 按行遍历
-    aptDict[data.iloc[i][0]] = {
-        "Country": data.iloc[i][1],
-        "Nickname": data.iloc[i][2],
-    }
+    weaponDict[data.iloc[i][0]] = {}
 # res = json.dumps(aptDict)
-with open("apt.json", "w", encoding='utf-8') as f:
-    json.dump(aptDict, f)
-
-
-
-
-
-
-
-
-
-
+with open("weapon.json", "w", encoding='utf-8') as f:
+    json.dump(weaponDict, f)
